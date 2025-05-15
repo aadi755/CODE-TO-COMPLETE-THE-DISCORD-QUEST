@@ -3,6 +3,13 @@ THIS CODE WILL HELP YOU TO COMPLETE THE QUEST IN DISCORD WITHOUT DOING ANYTHIN
 
 
 
+
+
+
+
+
+
+
 delete window.$;
 let wpRequire;
 window.webpackChunkdiscord_app.push([[ Math.random() ], {}, (req) => { wpRequire = req; }]);
